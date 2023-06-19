@@ -1,0 +1,17 @@
+.book {
+  max-width: 400px;
+  padding: 30px;
+  background-color: antiquewhite;
+  margin: 30px auto;
+  border-radius: 12px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.text {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  padding: 30px;
+}
